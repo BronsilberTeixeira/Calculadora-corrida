@@ -26,3 +26,5 @@ const calcular = document.getElementById('calcular');
             resultado.textContent = 'Preencha os campos corretamente para que o calculo seja feito'
         }
     }
+
+ calcular.addEventListener(click, pace)
