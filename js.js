@@ -1,4 +1,4 @@
-const calcular = document.getElementById('calcular')
+const calcular = document.getElementById('calcular');
 
     function pace(){
         const nome = document.getElementById('nome').value;
