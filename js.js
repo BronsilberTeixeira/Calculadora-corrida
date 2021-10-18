@@ -27,4 +27,4 @@ const calcular = document.getElementById('calcular');
         }
     }
 
- calcular.addEventListener(click, pace)
+ calcular.addEventListener(click, pace);
